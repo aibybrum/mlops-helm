@@ -1,11 +1,11 @@
 apiVersion: v2
 appVersion: "1.0"
-description: A Helm chart for Kubernetes
+description: A Helm chart for fastapi
 home: https://helm.sh/helm
 maintainers:
-  - email: email@example.com
-    name: Name
-name: example-v2
+  - email: bram.langmans@student.howest.be
+    name: Langmans bram
+name: fastapi
 sources:
   - https://github.com/helm/helm
-version: 0.2.7
+version: 1.0.0
