@@ -548,4 +548,20 @@ entries:
     urls:
     - https://github.com/helm/charts-repo-actions-demo/releases/download/example-v2-0.2.2/example-v2-0.2.2.tgz
     version: 0.2.2
+  fastapi:
+  - apiVersion: v2
+    appVersion: "1.0"
+    created: "2021-12-09T14:54:52.713386661Z"
+    description: A Helm chart for fastapi
+    digest: d97fa99c05d745d88c59d35675c2460dd0c318d8d7163d1b066d84be5f106016
+    home: https://helm.sh/helm
+    maintainers:
+    - email: bram.langmans@student.howest.be
+      name: Langmans bram
+    name: fastapi
+    sources:
+    - https://github.com/helm/helm
+    urls:
+    - https://github.com/aibybrum/mlops-helm/releases/download/fastapi-1.0.0/fastapi-1.0.0.tgz
+    version: 1.0.0
 generated: "2019-12-08T02:57:21.985425597Z"
